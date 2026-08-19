@@ -13,6 +13,10 @@
 					<amount>4</amount>
 				</animal>
 				<animal>
+					<name>Løve</name>
+					<amount>40</amount>
+				</animal>
+				<animal>
 					<name>Zebra</name>
 					<amount>8</amount>
 				</animal>
